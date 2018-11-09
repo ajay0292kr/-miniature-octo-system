@@ -124,5 +124,6 @@
     }
   },
   "defaultProject": "angular-tour-of-heroes",
-  "includeaDefaultPath": "/home/to/path/file"
+  "includeaDefaultPath": "/home/to/path/file",
+  "includeSrcFile": "/home/to/src"
 }
